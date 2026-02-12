@@ -49,8 +49,8 @@ ecommerce-backend/
 ## 🚀 Installation & Setup
 1️. Clone the repository
 ```
-git clone <your-repo-url>
-cd ecommerce-backend
+git clone https://github.com/Yeabebe/GDG-Node-track-Yeabsera-Abebe.git
+cd mini_project
 ```
 2. Install dependencies
 ```
@@ -86,3 +86,4 @@ Yeabsera Abebe
 ## 📄 License
 
 This project is for educational purposes.
+
